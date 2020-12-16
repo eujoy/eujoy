@@ -1,8 +1,12 @@
-![](https://github-readme-stats.vercel.app/api?username=eujoy&theme=dark&show_icons=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eujoy&theme=dark&show_icons=true&count_private=true"/>
+</p>
 
 ----
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eujoy&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujoy&theme=dark"/>
+</p>
 
 <!--
 **eujoy/eujoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
